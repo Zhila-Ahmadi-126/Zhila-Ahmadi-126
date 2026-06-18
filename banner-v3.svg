@@ -1,0 +1,69 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- warm background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5A1A00"/>
+      <stop offset="40%" stop-color="#D94E12"/>
+      <stop offset="70%" stop-color="#FFB35C"/>
+      <stop offset="100%" stop-color="#FFEED2"/>
+    </linearGradient>
+
+    <!-- blur glow -->
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+
+    <!-- shadow -->
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="12" stdDeviation="20" flood-opacity="0.25"/>
+    </filter>
+
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1200" height="140" fill="url(#bg)"/>
+
+  <!-- soft glowing blobs -->
+  <circle cx="180" cy="30" r="120" fill="#FFE3B8" opacity="0.35" filter="url(#blur)"/>
+  <circle cx="980" cy="60" r="140" fill="#FFFFFF" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="600" cy="120" r="150" fill="#FFC16B" opacity="0.25" filter="url(#blur)"/>
+
+  <!-- TOP WAVE -->
+  <path fill="rgba(255,255,255,0.15)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0,35 Q150,10 300,35 T600,35 T900,35 T1200,35 L1200,0 L0,0 Z;
+      M0,40 Q150,60 300,40 T600,40 T900,40 T1200,40 L1200,0 L0,0 Z;
+      M0,35 Q150,10 300,35 T600,35 T900,35 T1200,35 L1200,0 L0,0 Z
+      "/>
+  </path>
+
+  <!-- BOTTOM WAVE -->
+  <path fill="rgba(255,255,255,0.18)" filter="url(#shadow)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0,110 Q150,85 300,110 T600,110 T900,110 T1200,110 L1200,140 L0,140 Z;
+      M0,115 Q150,135 300,115 T600,115 T900,115 T1200,115 L1200,140 L0,140 Z;
+      M0,110 Q150,85 300,110 T600,110 T900,110 T1200,110 L1200,140 L0,140 Z
+      "/>
+  </path>
+
+  <!-- CENTER GLASS AREA (invisible soft layer, not a box) -->
+  <rect x="0" y="0" width="1200" height="140" fill="transparent"/>
+
+  <!-- TEXT -->
+  <text x="600" y="78"
+        text-anchor="middle"
+        font-size="34"
+        font-weight="600"
+        fill="#2A1A12"
+        letter-spacing="1"
+        font-family="Inter, Poppins, Segoe UI, Arial, sans-serif">
+
+    Hi, I am Jila Amadi
+
+  </text>
+
+</svg>
