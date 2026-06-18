@@ -1,199 +1,118 @@
-# 👋 Hi, I'm Jila Ahmadi
+# Jila Ahmadi
 
-### Full Stack Web Developer | Web Designer | Software Developer | IT Instructor
+### Full Stack Web Developer | Software Engineer | IT Instructor
 
-**Building scalable, modern, and business-focused web solutions.**
+> Building scalable, production-ready web applications with clean architecture and strong backend systems.
 
-I am a passionate Full Stack Web Developer and Professional Web Designer with practical experience in designing, developing, deploying, and maintaining professional web applications. My expertise covers the complete development lifecycle—from creating responsive user interfaces to backend development, database architecture, hosting, server management, and production deployment.
+---
 
-I enjoy transforming ideas into reliable digital products and continuously improving my skills through real-world projects, teaching, and technology research. My goal is to create software solutions that are scalable, secure, user-friendly, and capable of delivering real business value.
+## 🚀 About Me
 
+Full Stack Web Developer focused on building scalable, secure, and maintainable web applications.
 
+Experienced in backend systems, database design, and complete web development lifecycle — from UI design to deployment and server management.
 
+Currently focused on improving system design, backend engineering, and advanced Python development.
 
+---
 
-## 🧰 Languages and Tools
+## 🧰 Tech Stack
 
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
+**Backend:** PHP, Laravel, Python  
+**Database:** MySQL  
+**Tools:** Git, VS Code, PyCharm, Photoshop  
+**Deployment:** Hosting, Domain, Email Setup, Server Management  
 
-<p align="left">
-
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="70" height="70"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
-</a>
-
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="70" height="70"/>
-</a>
-
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="70" height="70"/>
-</a>
-
-
-
-</p>
-
-
-
-## 🚀 Professional Summary
-
-Experienced Full Stack Web Developer with strong expertise in PHP, Laravel, JavaScript, Python, MySQL, and scalable web application development. Actively seeking international opportunities in software engineering and backend development.
-
-- 💻 Full Stack Web Developer
-- 🎨 Professional Web Designer
-- 🌐 Website Hosting & Deployment Specialist
-- 🗄️ Database Design & Administration
-- 📧 Professional Business Email Configuration
-- 🏗️ Scalable Web Application Development
-- 👩‍🏫 Technical Instructor & Mentor
-- 🚀 Passionate About Modern Technologies and Software Engineering
-
+---
 
 ## 🚀 Featured Projects
 
-- 🛒 Afghan Online Shop Website (PHP + MySQL)
-- 💧 Water Billing Management System  (PHP + MySQL)
-- 🏠 TOEFL Academy Website  (PHP + MySQL)
-- 📚 Restaurant Website ( adminpanil + website)
--   and etc......
+- 🛒 E-Commerce Platform (PHP + MySQL)
+- 💧 Water Billing System
+- 🏠 Real Estate Management System
+- 📚 Educational Management Platform
 
+---
 
+## 💼 Experience
 
-## 💼 Professional Experience
+### Web Development Instructor — TOEFL Academy (2 Years)
+- Full-stack web development training
+- Mentoring real-world student projects
+- Stack: PHP, MySQL, JavaScript, Bootstrap
 
-### 👩‍🏫 Web Design & Web Development Instructor
-**TOEFL Academy** | 2 Years
+### ICDL Instructor — Hiwad School (6 Months)
+- Computer literacy & IT fundamentals training
 
-- Taught Web Design and Web Development.
-- Mentored students through real-world projects.
-- Trained students in HTML, CSS, Bootstrap, JavaScript, PHP, SQL, and database development.
-- Assisted learners in understanding software development workflows and best practices.
+### Software Developer — PPlus Company (2 Months)
+- Accounting system development
+- Debugging and system optimization
 
-### 👩‍🏫 ICDL Instructor
-**Hiwad School** | 6 Months
+### Freelance Web Developer
+- End-to-end web application development
+- Backend, frontend, database, deployment
 
-- Delivered ICDL training and computer literacy courses.
-- Helped students improve practical digital skills.
-- Provided guidance on office software and computer fundamentals.
+---
 
-### 💻 Senior Software Developer
-**PPlus Company** | 2 Months
+## 🎯 Engineering Focus
 
-- Participated in accounting software development.
-- Worked on software customization and debugging.
-- Contributed to business-oriented software solutions.
+- System Design & Architecture
+- Backend Development (PHP, Python)
+- Database Engineering & Optimization
+- Scalable Web Applications
+- Deployment & Server Infrastructure
 
-### 🌍 Freelance Web Developer
+---
 
-- Developed websites and web applications for clients.
-- Worked on frontend development, backend systems, databases, hosting, and deployment.
-- Delivered complete end-to-end web solutions.
+## 🌍 Languages
 
+- English — B2 (Professional Working Level)
+- Persian (Dari) — Native
+- Pashto — Conversational
 
+---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-Currently exploring Artificial Intelligence, Advanced Python Development, and Software Engineering.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhila-Ahmadi-126&show_icons=true&theme=tokyonight)
 
-- Artificial Intelligence
-- Advanced Python Development
-- Software Engineering
-- Scalable Backend Systems
-- Database Optimization
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhila-Ahmadi-126&layout=compact&theme=tokyonight)
 
+---
 
-## 🌎 Languages
-
-- 🇬🇧 English — B2 (Upper Intermediate)
-- 🇦🇫 Persian (Dari) — Native
-- 🇦🇫 Pashto — Conversational
-
-### Deployment & Infrastructure
-- Website Hosting
-- Domain Configuration
-- Business Email Setup
-- Server Management
-- Website Deployment
-
-
-## ⭐ Philosophy
-
-> "Code with purpose, build with passion, and never stop learning."
-
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zhila-ahmadi-91b098260/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.instagram.vom/@zhila_ahmadi22389" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
-  </a>
-
-  <a href="https://x.com/Zhila_Ahmadi_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="60" height="60"/>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/Zhila-Ahmadi-126" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://t.me/Zh_Ah175" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-         alt="Telegram"
-         width="60"
-         height="60"/>
+  <a href="https://t.me/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://youtube.com/@zhilaahmadi-i1r?si=tC8LjFV6oxGDjArU" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-         alt="YouTube"
-         width="60"
-         height="60"/>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/>
   </a>
 </p>
 
+---
 
+## 🧠 Engineering Philosophy
 
+> “Simplicity is the highest level of sophistication.”
 
+I believe in writing clean, maintainable, and scalable code that solves real-world problems efficiently.
 
+---
+
+### © 2026 — Jila Ahmadi | Software Engineer
