@@ -58,20 +58,6 @@ Experienced in PHP, JavaScript, Python, Java, SQL, Database Design, and Full Sta
 - 🚀 Passionate About Modern Technologies and Software Engineering
 
 
-
-## 👩‍💻 About Me
-
-Hello! I'm **Jila Ahmadi**, a dedicated Full Stack Web Developer, Web Designer, and Technology Instructor with a strong passion for building professional software solutions.
-
-I am currently a **Computer Engineering Student at Herat University**, specializing in Information Technology.
-
-My experience includes designing, developing, deploying, and maintaining web applications, databases, and business solutions. I focus on building reliable, secure, scalable, and user-friendly systems that solve real-world problems.
-
-Beyond development, I enjoy mentoring students, sharing knowledge, collaborating with teams, and continuously learning new technologies.
-
-I believe that great software is not only functional but also maintainable, efficient, and impactful.
-
-
 ## 💼 Professional Experience
 
 ### 👩‍🏫 Web Design & Web Development Instructor
@@ -128,8 +114,8 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 - Full Stack Web Development
 - Professional Web Design
 - PHP Development
-- Java Development
-- Python Development
+- laravel Development
+- JavaScript Development
 - Database Design & Management
 - Website Hosting & Deployment
 - Server Management
@@ -231,16 +217,12 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 - PHP
 - Laravel
 - Python
-- Java
-- C++
-- RESTful Applications
-
+  
 ### Database Technologies
-- SQL
 - MySQL
 - Database Design
 - Query Optimization
-
+  
 ### Deployment & Infrastructure
 - Website Hosting
 - Domain Configuration
