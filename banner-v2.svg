@@ -3,88 +3,94 @@
   <defs>
 
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6A1B00"/>
-      <stop offset="40%" stop-color="#D94E12"/>
-      <stop offset="75%" stop-color="#FFB25A"/>
-      <stop offset="100%" stop-color="#FFE9C7"/>
+      <stop offset="0%" stop-color="#9B2C00"/>
+      <stop offset="30%" stop-color="#E85D04"/>
+      <stop offset="65%" stop-color="#FFB347"/>
+      <stop offset="100%" stop-color="#FFF4DD"/>
     </linearGradient>
 
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-opacity="0.35"/>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.25"/>
     </filter>
 
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="35"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20"/>
     </filter>
 
   </defs>
 
-  <!-- BACKGROUND -->
+  <!-- Background -->
+
   <rect width="1200" height="100" fill="url(#bg)"/>
 
-  <!-- LIGHT GLOWS -->
-  <circle cx="200" cy="10" r="90" fill="#FFE2B5" opacity="0.4" filter="url(#blur)"/>
-  <circle cx="950" cy="15" r="110" fill="#FFFFFF" opacity="0.18" filter="url(#blur)"/>
-  <circle cx="600" cy="95" r="120" fill="#FFC16B" opacity="0.25" filter="url(#blur)"/>
+  <!-- Luxury glow -->
 
-  <!-- GLASS WAVE CARD (NOW LIGHTER / WHITE) -->
-  <path filter="url(#shadow)"
-        fill="rgba(255,255,255,0.18)"
-        stroke="rgba(255,255,255,0.35)">
+  <circle cx="180" cy="10" r="90"
+          fill="#FFE6B8"
+          opacity="0.55"
+          filter="url(#glow)"/>
 
-    <animate attributeName="d"
+  <circle cx="1000" cy="20" r="100"
+          fill="#FFFFFF"
+          opacity="0.25"
+          filter="url(#glow)"/>
+
+  <circle cx="720" cy="90" r="120"
+          fill="#FFD18A"
+          opacity="0.25"
+          filter="url(#glow)"/>
+
+  <!-- Glass Card -->
+
+  <rect
+      x="360"
+      y="18"
+      width="480"
+      height="64"
+      rx="18"
+      fill="url(#glass)"
+      stroke="rgba(255,255,255,0.4)"
+      filter="url(#shadow)"/>
+
+  <!-- Highlight -->
+
+  <rect
+      x="370"
+      y="24"
+      width="460"
+      height="2"
+      rx="1"
+      fill="white"
+      opacity="0.45"/>
+
+  <!-- Animated Wave -->
+
+  <path
+      stroke="#FFF9F0"
+      stroke-width="2.5"
+      fill="none"
+      opacity="0.9">
+
+    <animate
+      attributeName="d"
       dur="6s"
       repeatCount="indefinite"
       values="
-
-      M350 20
-      Q400 10 450 20
-      Q500 30 550 20
-      Q600 10 650 20
-      Q700 30 750 20
-      Q800 10 850 20
-      Q900 30 900 70
-      Q850 80 800 70
-      Q750 60 700 70
-      Q650 80 600 70
-      Q550 60 500 70
-      Q450 80 400 70
-      Q350 60 350 20 Z;
-
-      M350 25
-      Q400 35 450 25
-      Q500 15 550 25
-      Q600 35 650 25
-      Q700 15 750 25
-      Q800 35 850 25
-      Q900 45 900 70
-      Q850 60 800 70
-      Q750 80 700 70
-      Q650 60 600 70
-      Q550 80 500 70
-      Q450 60 400 70
-      Q350 50 350 25 Z;
-
-      M350 20
-      Q400 10 450 20
-      Q500 30 550 20
-      Q600 10 650 20
-      Q700 30 750 20
-      Q800 10 850 20
-      Q900 30 900 70
-      Q850 80 800 70
-      Q750 60 700 70
-      Q650 80 600 70
-      Q550 60 500 70
-      Q450 80 400 70
-      Q350 60 350 20 Z
-
+      M0 82 C150 65 250 95 400 82 S650 65 800 82 S1050 95 1200 82;
+      M0 82 C150 95 250 65 400 82 S650 95 800 82 S1050 65 1200 82;
+      M0 82 C150 65 250 95 400 82 S650 65 800 82 S1050 95 1200 82
       "/>
 
   </path>
 
-  <!-- NAME (dark brown, readable) -->
-  <text x="600" y="58"
+  <!-- Name -->
+
+ <text x="600" y="58"
         text-anchor="middle"
         font-size="30"
         font-weight="700"
