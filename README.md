@@ -11,6 +11,38 @@ I am a passionate Full Stack Web Developer and Professional Web Designer with pr
 I enjoy transforming ideas into reliable digital products and continuously improving my skills through real-world projects, teaching, and technology research. My goal is to create software solutions that are scalable, secure, user-friendly, and capable of delivering real business value.
 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/zhila-ahmadi-91b098260/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
+  </a>
+
+  <a href="https://www.instagram.vom/@zhila_ahmadi22389" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
+  </a>
+
+  <a href="https://x.com/Zhila_Ahmadi_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="60" height="60"/>
+  </a>
+
+  <a href="https://github.com/Zhila-Ahmadi-126" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="60" height="60"/>
+  </a>
+
+  <a href="https://t.me/Zh_Ah175" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+         alt="Telegram"
+         width="60"
+         height="60"/>
+  </a>
+
+  <a href="https://youtube.com/@zhilaahmadi-i1r?si=tC8LjFV6oxGDjArU" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+         alt="YouTube"
+         width="60"
+         height="60"/>
+  </a>
+</p>
+
 
 
 
@@ -92,11 +124,6 @@ Experienced Full Stack Web Developer with strong expertise in PHP, Laravel, Java
 
 
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Zhila-Ahmadi-126&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Zhila-Ahmadi-126&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
@@ -166,38 +193,11 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 
 > "Code with purpose, build with passion, and never stop learning."
 
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zhila-ahmadi-91b098260/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
+![stats](https://github-readme-stats.vercel.app/api?username=Zhila-Ahmadi-126&show_icons=true&theme=tokyonight)
 
-  <a href="https://www.instagram.vom/@zhila_ahmadi22389" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
-  </a>
 
-  <a href="https://x.com/Zhila_Ahmadi_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="60" height="60"/>
-  </a>
-
-  <a href="https://github.com/Zhila-Ahmadi-126" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="60" height="60"/>
-  </a>
-
-  <a href="https://t.me/Zh_Ah175" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-         alt="Telegram"
-         width="60"
-         height="60"/>
-  </a>
-
-  <a href="https://youtube.com/@zhilaahmadi-i1r?si=tC8LjFV6oxGDjArU" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-         alt="YouTube"
-         width="60"
-         height="60"/>
-  </a>
-</p>
 
 
 
