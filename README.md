@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-v2.svg" width="100%">
+  <img src="./banner-v3.svg" width="100%">
 </p>
 
 # 👋 Hi, I'm Jila Ahmadi
