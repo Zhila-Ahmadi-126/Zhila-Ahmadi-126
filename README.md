@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner-v3.svg" width="100%">
 </p>
-# Full Stack Web Developer | Web Designer | Software Developer | IT Instructor
+<h1>Full Stack Web Developer | Web Designer | Software Developer | IT Instructor</h1>
 
 **Building scalable, modern, and business-focused web solutions.**
 
