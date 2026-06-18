@@ -58,86 +58,6 @@ Experienced Full Stack Web Developer with strong expertise in PHP, Laravel, Java
 - 🚀 Passionate About Modern Technologies and Software Engineering
 
 
-## 💼 Professional Experience
-
-### 👩‍🏫 Web Design & Web Development Instructor
-**TOEFL Academy** | 2 Years
-
-- Taught Web Design and Web Development.
-- Mentored students through real-world projects.
-- Trained students in HTML, CSS, Bootstrap, JavaScript, PHP, SQL, and database development.
-- Assisted learners in understanding software development workflows and best practices.
-
-### 👩‍🏫 ICDL Instructor
-**Hiwad School** | 6 Months
-
-- Delivered ICDL training and computer literacy courses.
-- Helped students improve practical digital skills.
-- Provided guidance on office software and computer fundamentals.
-
-### 💻 Senior Software Developer
-**PPlus Company** | 2 Months
-
-- Participated in accounting software development.
-- Worked on software customization and debugging.
-- Contributed to business-oriented software solutions.
-
-### 🌍 Freelance Web Developer
-
-- Developed websites and web applications for clients.
-- Worked on frontend development, backend systems, databases, hosting, and deployment.
-- Delivered complete end-to-end web solutions.
-
-
-
-## 🎯 Current Focus
-
-Currently exploring Artificial Intelligence, Advanced Python Development, and Software Engineering.
-
-- Artificial Intelligence
-- Advanced Python Development
-- Software Engineering
-- Scalable Backend Systems
-- Database Optimization
-
-
-## 🌎 Languages
-
-- 🇬🇧 English — B2 (Upper Intermediate)
-- 🇦🇫 Persian (Dari) — Native
-- 🇦🇫 Pashto — Conversational
-
-
-
-## 📌 Core Competencies
-
-- Full Stack Web Development
-- Professional Web Design
-- PHP Development
-- laravel Development
-- JavaScript Development
-- Database Design & Management
-- Website Hosting & Deployment
-- Server Management
-- Business Email Configuration
-- Technical Training & Mentorship
-- Software Architecture
-- Problem Solving
-
-
-
-## 📫 Contact Information
-
-📧 Email: **zhilaahmadi125@gmail.com**
-
-💼 Open to:
-
-- Remote Opportunities
-- International Positions
-- Freelance Projects
-- Software Development Collaborations
-- Open Source Contributions
-
 ## 🚀 Featured Projects
 
 - 🛒 Afghan Online Shop Website (PHP + MySQL)
@@ -209,18 +129,61 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 
 </p>
 
+## 💼 Professional Experience
+
+### 👩‍🏫 Web Design & Web Development Instructor
+**TOEFL Academy** | 2 Years
+
+- Taught Web Design and Web Development.
+- Mentored students through real-world projects.
+- Trained students in HTML, CSS, Bootstrap, JavaScript, PHP, SQL, and database development.
+- Assisted learners in understanding software development workflows and best practices.
+
+### 👩‍🏫 ICDL Instructor
+**Hiwad School** | 6 Months
+
+- Delivered ICDL training and computer literacy courses.
+- Helped students improve practical digital skills.
+- Provided guidance on office software and computer fundamentals.
+
+### 💻 Senior Software Developer
+**PPlus Company** | 2 Months
+
+- Participated in accounting software development.
+- Worked on software customization and debugging.
+- Contributed to business-oriented software solutions.
+
+### 🌍 Freelance Web Developer
+
+- Developed websites and web applications for clients.
+- Worked on frontend development, backend systems, databases, hosting, and deployment.
+- Delivered complete end-to-end web solutions.
+
+
+
+## 🎯 Current Focus
+
+Currently exploring Artificial Intelligence, Advanced Python Development, and Software Engineering.
+
+- Artificial Intelligence
+- Advanced Python Development
+- Software Engineering
+- Scalable Backend Systems
+- Database Optimization
+
+
+## 🌎 Languages
+
+- 🇬🇧 English — B2 (Upper Intermediate)
+- 🇦🇫 Persian (Dari) — Native
+- 🇦🇫 Pashto — Conversational
+
 ### Deployment & Infrastructure
 - Website Hosting
 - Domain Configuration
 - Business Email Setup
 - Server Management
 - Website Deployment
-
-## 🤝 Let's Connect
-
-I enjoy collaborating with developers, educators, entrepreneurs, and technology enthusiasts from around the world.
-
-Feel free to connect with me through any of my social platforms.
 
 
 ## ⭐ Philosophy
@@ -229,8 +192,5 @@ Feel free to connect with me through any of my social platforms.
 
 
 
-### Thank you for visiting my GitHub profile! 🙏
-
-If you like my work, feel free to explore my repositories and connect with me.
 
 
