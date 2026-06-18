@@ -1,75 +1,81 @@
 # Jila Ahmadi
 
-### Full Stack Web Developer | Software Engineer | IT Instructor
-
-> Building scalable, production-ready web applications with clean architecture and strong backend systems.
+### Full Stack Web Developer | Software Engineer | Backend Developer | IT Instructor
 
 ---
 
-## 🚀 About Me
+## 🎯 Professional Summary
 
-Full Stack Web Developer focused on building scalable, secure, and maintainable web applications.
+Full Stack Web Developer with experience in designing, developing, and deploying scalable web applications.
 
-Experienced in backend systems, database design, and complete web development lifecycle — from UI design to deployment and server management.
+Skilled in backend development, database design, and full-cycle software development including UI implementation, API development, hosting, and server management.
 
-Currently focused on improving system design, backend engineering, and advanced Python development.
+Experienced in both development and teaching, with strong ability to work in team-based and remote environments.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-**Frontend:** HTML5, CSS3, Bootstrap, JavaScript  
-**Backend:** PHP, Laravel, Python  
-**Database:** MySQL  
-**Tools:** Git, VS Code, PyCharm, Photoshop  
-**Deployment:** Hosting, Domain, Email Setup, Server Management  
+**Programming Languages:** PHP, Python, JavaScript, Java, C++  
+**Web Development:** HTML5, CSS3, Bootstrap, Laravel  
+**Database:** MySQL, Database Design, SQL Optimization  
+**Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Photoshop  
+**Deployment:** Web Hosting, Domain Setup, Email Configuration, Server Management  
+
+---
+
+## 🚀 Core Expertise
+
+- Full Stack Web Development
+- Backend Development (PHP / Python)
+- Database Design & Optimization
+- RESTful Web Applications
+- Website Deployment & Hosting
+- System Architecture Basics
+- Problem Solving & Debugging
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛒 E-Commerce Platform (PHP + MySQL)
-- 💧 Water Billing System
-- 🏠 Real Estate Management System
-- 📚 Educational Management Platform
+- E-Commerce Web Application (PHP + MySQL)
+- Water Billing Management System
+- Real Estate Management System
+- Educational Management Platform
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Web Development Instructor — TOEFL Academy (2 Years)
-- Full-stack web development training
-- Mentoring real-world student projects
-- Stack: PHP, MySQL, JavaScript, Bootstrap
+- Delivered full-stack web development training
+- Mentored students in real-world projects
+- Taught PHP, MySQL, JavaScript, HTML/CSS, Bootstrap
 
 ### ICDL Instructor — Hiwad School (6 Months)
-- Computer literacy & IT fundamentals training
+- IT fundamentals and computer literacy training
 
 ### Software Developer — PPlus Company (2 Months)
-- Accounting system development
-- Debugging and system optimization
+- Developed accounting and business systems
+- Bug fixing and system optimization
 
 ### Freelance Web Developer
-- End-to-end web application development
-- Backend, frontend, database, deployment
-
----
-
-## 🎯 Engineering Focus
-
-- System Design & Architecture
-- Backend Development (PHP, Python)
-- Database Engineering & Optimization
-- Scalable Web Applications
-- Deployment & Server Infrastructure
+- Built complete web applications
+- Managed backend, frontend, database, and deployment
 
 ---
 
 ## 🌍 Languages
 
-- English — B2 (Professional Working Level)
+- English — B2 (Professional Working Proficiency)
 - Persian (Dari) — Native
 - Pashto — Conversational
+
+---
+
+## 🎯 Career Objective
+
+Seeking remote or international opportunities in Full Stack Development, Backend Development, or Software Engineering roles where I can contribute to scalable and impactful software systems.
 
 ---
 
@@ -81,38 +87,17 @@ Currently focused on improving system design, backend engineering, and advanced 
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Contact
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/Zhila-Ahmadi-126" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://t.me/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40"/>
-  </a>
-</p>
+📧 Email: zhilaahmadi125@gmail.com  
+🌐 Open to remote and international job opportunities  
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 Engineering Mindset
 
-> “Simplicity is the highest level of sophistication.”
-
-I believe in writing clean, maintainable, and scalable code that solves real-world problems efficiently.
+Focused on writing clean, maintainable, and scalable code that solves real-world problems efficiently.
 
 ---
 
-### © 2026 — Jila Ahmadi | Software Engineer
+### © 2026 — Jila Ahmadi | Full Stack Developer
