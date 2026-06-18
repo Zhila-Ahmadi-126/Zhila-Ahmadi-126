@@ -46,6 +46,8 @@ I enjoy transforming ideas into reliable digital products and continuously impro
 
 ## 🚀 Professional Summary
 
+Experienced in PHP, JavaScript, Python, Java, SQL, Database Design, and Full Stack Web Development.
+
 - 💻 Full Stack Web Developer
 - 🎨 Professional Web Designer
 - 🌐 Website Hosting & Deployment Specialist
@@ -104,9 +106,10 @@ I believe that great software is not only functional but also maintainable, effi
 
 ## 🎯 Current Focus
 
+Currently exploring Artificial Intelligence, Advanced Python Development, and Software Engineering.
+
 - Artificial Intelligence
-- Python Development
-- Robotics
+- Advanced Python Development
 - Software Engineering
 - Scalable Backend Systems
 - Database Optimization
@@ -192,14 +195,6 @@ I believe that great software is not only functional but also maintainable, effi
 
 <a href="https://react.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="130" height="130"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="130" height="130"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="130" height="130"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
