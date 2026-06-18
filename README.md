@@ -228,11 +228,13 @@ I believe that great software is not only functional but also maintainable, effi
 - CSS3
 - Bootstrap
 - JavaScript
+- Tailwend 4
 - Responsive Web Design
 - UI/UX Implementation
 
 ### Backend Development
 - PHP
+- Laravel
 - Python
 - Java
 - C++
