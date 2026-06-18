@@ -91,15 +91,19 @@ Experienced Full Stack Web Developer with strong expertise in PHP, Laravel, Java
 - 🚀 Passionate About Modern Technologies and Software Engineering
 
 
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Zhila-Ahmadi-126&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Zhila-Ahmadi-126&theme=tokyonight)
+
 ## 🚀 Featured Projects
 
-- 🛒 Afghan Online Shop Website (PHP + MySQL)
-- 💧 Water Billing Management System  (PHP + MySQL)
-- 🏠 TOEFL Academy Website  (PHP + MySQL)
+- 🛒 Afghan Online Shop Website  adminpanil + website)
+- 💧 Water Billing Management System  ( adminpanil +PHP + MySQL)
+- 🏠 TOEFL Academy Website  ( adminpanil + website)
 - 📚 Restaurant Website ( adminpanil + website)
--   and etc......
-
-
 
 ## 💼 Professional Experience
 
