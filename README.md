@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Jila%20Ahmadi&fontSize=45&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img src="./banner.svg" alt="Banner">
+</p>
 
 # 👋 Hi, I'm Jila Ahmadi
 
