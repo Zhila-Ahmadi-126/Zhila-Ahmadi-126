@@ -1,10 +1,7 @@
 <p align="center">
   <img src="./banner-v3.svg" width="100%">
 </p>
-
-# 👋 Hi, I'm Jila Ahmadi
-
-### Full Stack Web Developer | Web Designer | Software Developer | IT Instructor
+## Full Stack Web Developer | Web Designer | Software Developer | IT Instructor
 
 **Building scalable, modern, and business-focused web solutions.**
 
