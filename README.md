@@ -1,5 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jila%20Ahmadi&fontSize=40&fontColor=ffffff)
-
+![Jila Ahmadi Banner](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:ff6a00,100:00c6ff&height=220&section=header&text=Jila%20Ahmadi&fontSize=40&fontColor=ffffff&animation=fadeIn)
 # 👋 Hi, I'm Jila Ahmadi
 
 ### Full Stack Web Developer | Web Designer | Software Developer | IT Instructor
