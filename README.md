@@ -46,7 +46,7 @@ I enjoy transforming ideas into reliable digital products and continuously impro
 
 ## 🚀 Professional Summary
 
-Experienced in PHP, JavaScript, Python, Java, SQL, Database Design, and Full Stack Web Development.
+Experienced Full Stack Web Developer with strong expertise in PHP, Laravel, JavaScript, Python, MySQL, and scalable web application development. Actively seeking international opportunities in software engineering and backend development.
 
 - 💻 Full Stack Web Developer
 - 🎨 Professional Web Designer
@@ -138,6 +138,13 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 - Software Development Collaborations
 - Open Source Contributions
 
+## 🚀 Featured Projects
+
+- 🛒 Afghan Online Shop Website (PHP + MySQL)
+- 💧 Water Billing Management System  (PHP + MySQL)
+- 🏠 TOEFL Academy Website  (PHP + MySQL)
+- 📚 Restaurant Website ( adminpanil + website)
+-   and etc......
 
 ## 🧰 Languages and Tools
 
@@ -202,28 +209,6 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 
 </p>
 
-
-## 📊 Technical Expertise
-
-### Frontend Development
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- Tailwend 4
-- Responsive Web Design
-- UI/UX Implementation
-
-### Backend Development
-- PHP
-- Laravel
-- Python
-  
-### Database Technologies
-- MySQL
-- Database Design
-- Query Optimization
-  
 ### Deployment & Infrastructure
 - Website Hosting
 - Domain Configuration
@@ -231,39 +216,11 @@ Currently exploring Artificial Intelligence, Advanced Python Development, and So
 - Server Management
 - Website Deployment
 
-
-## 🚀 Career Objective
-
-I am actively seeking opportunities with international companies where I can contribute my expertise in software engineering, full stack web development, and web technologies while continuing to grow professionally and work on impactful projects.
-
-I am particularly interested in:
-
-- Full Stack Development Roles
-- Backend Development
-- Web Application Development
-- Software Engineering
-- Remote Opportunities
-- International Technology Teams
-
-
 ## 🤝 Let's Connect
 
 I enjoy collaborating with developers, educators, entrepreneurs, and technology enthusiasts from around the world.
 
 Feel free to connect with me through any of my social platforms.
-
-
-
-## ⚡ Fun Facts
-
-- 🚀 I enjoy building complete software solutions from idea to deployment.
-- 💻 I am passionate about Full Stack Development.
-- 🤝 I enjoy teamwork, mentoring, and knowledge sharing.
-- 📚 I continuously learn new technologies and development methodologies.
-- 🌍 I believe technology can create meaningful positive impact.
-- 🎯 I enjoy solving complex technical challenges.
-- 🏗️ I love transforming ideas into real-world applications.
-
 
 
 ## ⭐ Philosophy
